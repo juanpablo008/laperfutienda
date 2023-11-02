@@ -1,0 +1,5 @@
+.env
+info.txt
+*.xlsx
+*.log
+*.png
